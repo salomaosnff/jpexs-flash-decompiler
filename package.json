@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/AndreyMiloserdov/jpexs-flash-decompiler#readme",
   "engines": {
-    "node": "^6.9.1"
+    "node": ">=6.9.1"
   },
   "dependencies": {
     "async": "^2.1.5"
